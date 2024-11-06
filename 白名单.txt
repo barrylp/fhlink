@@ -1,5 +1,4 @@
-fanghong.zeabur.app
-fanghong.pages.dev
+barrylp.github.io
 huizohome.com
 netlify.app
 zeabur.app
